@@ -1,0 +1,23 @@
+{
+  "name": "sprint-2-review",
+  "version": "1.0.0",
+  "description": "<!-- stage changes --> git add .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brrkrmn/sprint-2-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brrkrmn/sprint-2-review/issues"
+  },
+  "homepage": "https://github.com/brrkrmn/sprint-2-review#readme",
+  "dependencies": {
+    "axios": "^1.12.2"
+  }
+}
